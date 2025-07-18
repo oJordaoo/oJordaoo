@@ -1,8 +1,8 @@
 # Gabriel Jordão
 
-Desenvolvedor de Software com foco em [Sua Principal Tecnologia, ex: React e Node.js], com experiência na criação de soluções eficientes para problemas complexos. Buscando aplicar e expandir minhas habilidades em projetos desafiadores no mercado global.
+Desenvolvedor de Software com foco em Node, com experiência na criação de soluções eficientes para problemas complexos. Buscando aplicar e expandir minhas habilidades em projetos desafiadores no mercado global.
 
-Atualmente, meu foco de estudo está em [Tecnologia que você está estudando].
+Atualmente, meu foco de estudo está em Java/Scala.
 
 ---
 
